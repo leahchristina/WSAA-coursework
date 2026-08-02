@@ -1,3 +1,5 @@
+# This program deals 5 cards at random & analyses the results
+
 import requests
 
 SHUFFLE_URL = "https://deckofcardsapi.com/api/deck/new/shuffle/?deck_count=1"
